@@ -1,2 +1,0 @@
-# .github
-Istiqlal Learn Description
