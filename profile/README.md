@@ -5,6 +5,8 @@ Repositori ini merupakan salah satu keinginan pemilik untuk berbagi terkait mate
 
 ## Daftar Materi
 
+> Klik pada subjek di bawah untuk menuju materi yang sesuai
+
 [🔵 Microsoft Azure]() <br>
 [🔵 Cisco Network]() <br>
 [🔵 AWS Cloud]() <br>
