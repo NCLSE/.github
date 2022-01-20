@@ -9,4 +9,4 @@ Repositori ini merupakan salah satu keinginan pemilik untuk berbagi terkait mate
 [🔵 Tech Courses Curated List](https://github.com/istiqlal-learn/tech-course) <br>
 [🔵 Microsoft Azure](https://github.com/istiqlal-learn/Azure/blob/main/README.md) | ⏸️ Progress Paused <br> 
 [🔵 Cisco Network](https://github.com/istiqlal-learn/Cisco/blob/main/README.md) | ⏸️Progress Paused <br>
-[🔵 AWS Cloud](https://github.com/istiqlal-learn/AWS/blob/main/README.md) ⏸️Progress Paused <br>
+[🔵 AWS Cloud](https://github.com/istiqlal-learn/AWS/blob/main/README.md) | ⏸️Progress Paused <br>
