@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/license/istiqlal-learn/.github)
+![](header.png)
 
 # Istiqlal Learn
 
