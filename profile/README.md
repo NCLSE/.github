@@ -4,9 +4,6 @@ This repository is one of the owner's wishes to share technology-related materia
 
 ## Speed Dial
 
-### Tech Courses Curated List
-[Index Website](https://tech-course.iqlal.me) <br>
-[Respository](https://github.com/istiqlal-learn/tech-course) <br>
 [🔵 Tech Courses Curated List](https://github.com/istiqlal-learn/tech-course) <br>
 <!-- [🔵 Microsoft Azure](https://github.com/istiqlal-learn/Azure/blob/main/README.md) | ⏸️ Progress Paused <br>  -->
 <!-- [🔵 Cisco Network](https://github.com/istiqlal-learn/Cisco/blob/main/README.md) | ⏸️Progress Paused <br> -->
