@@ -7,7 +7,7 @@ NCLSE was originally named _Netamiral_. However, due to being shorter and easier
 "Open Source and Free for Everyone IT Resources and Materials"
 
 ## Contributions
-everyone is welcome to contribute, provided they are committed to free and open source technology education. if you wish to contribute to this organization please send an email to [info@nclse.org](mailto:nclse.org)
+Everyone is welcome to contribute, provided they are committed to free and open source technology education. if you wish to contribute to this organization please send an email to [info@nclse.org](mailto:nclse.org)
 
 ## Our Social
 - [LinkedIn](https://linkedin.com/company/nclse)
